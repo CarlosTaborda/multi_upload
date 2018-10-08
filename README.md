@@ -7,5 +7,5 @@ and load as normal library "$this->load->library('MultipleUpload')"
 <br/>
 <br/>
 
-and to use "$this->multipleupload"
+and to use "$this->multipleupload->uploadMultiple( 'input name', 'path to upload', 'allow extension separated by | example:gif|jpg|png' )"
 </pre>
